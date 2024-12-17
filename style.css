@@ -1,0 +1,208 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #4d4d4d;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 400;
+  color: #717171;
+}
+
+nav {
+  display: flex;
+  gap: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #18191f;
+}
+
+/* Style du button */
+button {
+  border-style: none;
+  background-color: #4caf4f;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  border-radius: 6px;
+}
+/* Style du Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  gap: 145px;
+  padding-top: 22px;
+  padding-right: 105px;
+  padding-bottom: 22px;
+  padding-left: 105px;
+  background-color: #f5f7fa;
+  font-weight: 400;
+}
+/* Style du button Login */
+.boutonlogin {
+  color: #4caf4f;
+  background-color: #f5f7fa;
+}
+
+/* Style Section Hero */
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 96px;
+  padding-right: 144px;
+  padding-bottom: 96px;
+  padding-left: 144px;
+  gap: 104px;
+  font-size: 64px;
+  background-color: #f5f7fa;
+  color: #4d4d4d;
+}
+
+.titre {
+  color: #4caf4f;
+}
+
+.p1 {
+  font-size: 16px;
+  color: #717171;
+}
+
+/* Style button Register */
+.bouton-register {
+  padding-top: 14px;
+  padding-right: 32px;
+  padding-bottom: 14px;
+  padding-left: 32px;
+  gap: 10px;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Style Section Community */
+.community-section {
+  text-align: center;
+  font-size: 36px;
+  color: #4d4d4d;
+}
+
+/* Style Card in Section Community */
+.carré {
+  padding-top: 24px;
+  padding-right: 32px;
+  padding-bottom: 24px;
+  padding-left: 32px;
+  box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.2);
+}
+
+.div1 {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  font-size: 14px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 32px;
+  padding-left: 32px;
+  border-radius: 8px;
+  gap: 8px;
+}
+
+/*Style Button get a demo */
+.bouton-get-a-demo {
+  padding-top: 14px;
+  padding-right: 32px;
+  padding-bottom: 14px;
+  padding-left: 32px;
+  gap: 8px;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Style Section Unlock */
+.unlock-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 52px;
+  padding-right: 144px;
+  padding-bottom: 96px;
+  padding-left: 144px;
+  gap: 32px;
+  font-size: 36px;
+  color: #4d4d4d;
+}
+
+/* Style Section Calender */
+.calender-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 52px;
+  padding-right: 144px;
+  padding-bottom: 96px;
+  padding-left: 144px;
+  gap: 32px;
+  font-size: 36px;
+  color: #4d4d4d;
+}
+
+/* Style Button Learn More */
+.bouton-learn-more {
+  padding-top: 14px;
+  padding-right: 32px;
+  padding-bottom: 14px;
+  padding-left: 32px;
+  gap: 8px;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Style Footer */
+.footer {
+  text-align: center;
+  color: #263238;
+  background-color: #f5f7fa;
+  border-radius: 8px;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  gap: 32px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 4%;
+}
+
+.footer-2 {
+  background-color: #263238;
+  padding-top: 64px;
+  padding-right: 165px;
+  padding-bottom: 64px;
+  padding-left: 165px;
+  gap: 125px;
+  margin-bottom: 15%;
+  margin-bottom: auto;
+}
+
+.p-footer {
+  color: #ffffff;
+  margin-left: 39%;
+}
